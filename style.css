@@ -1,0 +1,67 @@
+body{
+    background-color: lightgray;
+}
+.introContainer{
+    /* border: solid red; */
+    height: 22vh;
+    margin: 25px;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 4px;
+    
+}
+
+
+.imageContainer, .bioContainer{
+    /* border: solid black; */
+    width: 33%;
+    
+    
+
+
+}
+.subContainer{
+    /* border: solid blue; */
+    height: 22vh;
+    margin: 25px;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 4px;
+}
+.eduContainer, .expContainer{
+    /* border: solid black; */
+    width: 33%;
+    
+}
+.sub2Container{
+    /* border: solid green; */
+    height: 22vh;
+    margin: 25px;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 4px;
+}
+.skillContainer, .positionContainer{
+    /* border: solid black; */
+    width: 33%;
+    
+
+}
+
+.contactContainer{
+    /* border: solid purple; */
+    height: 22vh;
+    margin: 25px;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 4%;
+}
+.contact, .position2{
+    /* border: solid black; */
+    width: 33%;
+}
+.imgPic{
+    width: 30%;
+}
+
+
